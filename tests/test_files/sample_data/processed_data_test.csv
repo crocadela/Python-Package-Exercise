@@ -1,0 +1,9 @@
+,file_name,city,year,in_city,car,traffic light,person
+0,berlin_000001_000019_leftImg8bit_15-01-2018,berlin,2018.0,True,4,1,0
+1,berlin_000127_000019_leftImg8bit_22-01-2019,berlin,2019.0,True,2,1,2
+2,berlin_000343_000019_leftImg8bit_05-07-2018,berlin,2018.0,True,3,0,2
+3,bonn_000014_000019_leftImg8bit_01-05-2016,bonn,2016.0,True,5,0,0
+4,bonn_000025_000019_leftImg8bit_07-08-2015,bonn,2015.0,True,2,3,0
+5,zurich_000101_000019_leftImg8bit_02-05-2019,zurich,2019.0,False,0,0,0
+6,zurich_000107_000019_leftImg8bit_20-06-2017,zurich,2017.0,True,5,0,0
+7,zurich_000113_000019_leftImg8bit_16-02-2019,zurich,2019.0,False,0,0,0
